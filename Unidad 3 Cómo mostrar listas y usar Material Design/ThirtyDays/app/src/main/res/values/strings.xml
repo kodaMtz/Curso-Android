@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">30 Días de Éxito</string>
+    <string name="day1_description">Día 1 - Gym</string>
+    <string name="day2_description">Día 2 - Lectura</string>
+    <string name="day3_description">Día 3 - Serie o documental</string>
+    <string name="day4_description">Día 4 - Estudio</string>
+    <string name="day5_description">Día 5 - Meditación</string>
+    <string name="day6_description">Día 6 - Hidratación</string>
+    <string name="day7_description">Día 7 - Sin redes sociales</string>
+    <string name="day8_description">Día 8 - Gym</string>
+    <string name="day9_description">Día 9 - Journaling</string>
+    <string name="day10_description">Día 10 - Caminar</string>
+    <string name="day11_description">Día 11 - Lectura</string>
+    <string name="day12_description">Día 12 - Organiza tu espacio</string>
+    <string name="day13_description">Día 13 - Contacta a alguien</string>
+    <string name="day14_description">Día 14 - Gym</string>
+    <string name="day15_description">Día 15 - Aprende en YouTube</string>
+    <string name="day16_description">Día 16 - Planea tu semana</string>
+    <string name="day17_description">Día 17 - Serie o documental</string>
+    <string name="day18_description">Día 18 - Estudio</string>
+    <string name="day19_description">Día 19 - Come saludable</string>
+    <string name="day20_description">Día 20 - Gym</string>
+    <string name="day21_description">Día 21 - Lectura</string>
+    <string name="day22_description">Día 22 - Reflexiona</string>
+    <string name="day23_description">Día 23 - Sin junk food</string>
+    <string name="day24_description">Día 24 - Estudio</string>
+    <string name="day25_description">Día 25 - Gym</string>
+    <string name="day26_description">Día 26 - Podcast</string>
+    <string name="day27_description">Día 27 - Haz algo nuevo</string>
+    <string name="day28_description">Día 28 - Lectura</string>
+    <string name="day29_description">Día 29 - Gym</string>
+    <string name="day30_description">Día 30 - Celebra y planea</string>
+</resources>
